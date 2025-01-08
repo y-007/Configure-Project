@@ -1,2 +1,2 @@
 # Configure-Project
-Next.js project
+This is a first Next.js project
